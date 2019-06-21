@@ -1,0 +1,200 @@
+[
+    {
+       "imageurl":"https://images10.gaadicdn.com/usedcar_image/320x240/usedcar_file_3__99391560848406_1560848437.jpg?tr=w-266" ,"Name":"chevrolet chevelle malibu",
+       "Mileage":18,
+       "Cylinders":8,
+       "Displacement":307,
+       "Horsepower":130,
+       "drivenKm":3504,
+       "Acceleration":12,
+       "Year":"1970-01-01",
+       "Fuel":"Diesel","city":"Chennai","Price":450000
+    },
+    {
+       "imageurl":"https://images10.gaadicdn.com/usedcar_image/320x240/usedcar_file_3__99391560848406_1560848437.jpg?tr=w-266" ,"Name":"buick skylark 320",
+       "Mileage":15,
+       "Cylinders":8,
+       "Displacement":350,
+       "Horsepower":165,
+       "drivenKm":3693,
+       "Acceleration":11.5,
+       "Year":"1970-01-01",
+       "Fuel":"Diesel","city":"Chennai","Price":450000
+    },
+    {
+       "imageurl":"https://images10.gaadicdn.com/usedcar_image/320x240/usedcar_file_3__99391560848406_1560848437.jpg?tr=w-266" ,"Name":"plymouth satellite",
+       "Mileage":18,
+       "Cylinders":8,
+       "Displacement":318,
+       "Horsepower":150,
+       "drivenKm":3436,
+       "Acceleration":11,
+       "Year":"1970-01-01",
+       "Fuel":"Diesel","city":"Chennai","Price":450000
+    },
+    {
+       "imageurl":"https://images10.gaadicdn.com/usedcar_image/320x240/usedcar_file_3__99391560848406_1560848437.jpg?tr=w-266" ,"Name":"amc rebel sst",
+       "Mileage":16,
+       "Cylinders":8,
+       "Displacement":304,
+       "Horsepower":150,
+       "drivenKm":3433,
+       "Acceleration":12,
+       "Year":"1970-01-01",
+       "Fuel":"Diesel","city":"Chennai","Price":450000
+    },
+    {
+       "imageurl":"https://images10.gaadicdn.com/usedcar_image/320x240/usedcar_file_3__99391560848406_1560848437.jpg?tr=w-266" ,"Name":"ford torino",
+       "Mileage":17,
+       "Cylinders":8,
+       "Displacement":302,
+       "Horsepower":140,
+       "drivenKm":3449,
+       "Acceleration":10.5,
+       "Year":"1970-01-01",
+       "Fuel":"Diesel","city":"Chennai","Price":450000
+    },
+    {
+       "imageurl":"https://images10.gaadicdn.com/usedcar_image/320x240/usedcar_file_3__99391560848406_1560848437.jpg?tr=w-266" ,"Name":"ford galaxie 500",
+       "Mileage":15,
+       "Cylinders":8,
+       "Displacement":429,
+       "Horsepower":198,
+       "drivenKm":4341,
+       "Acceleration":10,
+       "Year":"1970-01-01",
+       "Fuel":"Diesel","city":"Chennai","Price":450000
+    },
+    {
+       "imageurl":"https://images10.gaadicdn.com/usedcar_image/320x240/usedcar_file_3__99391560848406_1560848437.jpg?tr=w-266" ,"Name":"chevrolet impala",
+       "Mileage":14,
+       "Cylinders":8,
+       "Displacement":454,
+       "Horsepower":220,
+       "drivenKm":4354,
+       "Acceleration":9,
+       "Year":"1970-01-01",
+       "Fuel":"Diesel","city":"Chennai","Price":450000
+    },
+    {
+       "imageurl":"https://images10.gaadicdn.com/usedcar_image/320x240/usedcar_file_3__99391560848406_1560848437.jpg?tr=w-266" ,"Name":"plymouth fury iii",
+       "Mileage":14,
+       "Cylinders":8,
+       "Displacement":440,
+       "Horsepower":215,
+       "drivenKm":4312,
+       "Acceleration":8.5,
+       "Year":"1970-01-01",
+       "Fuel":"Diesel","city":"Chennai","Price":450000
+    },
+    {
+       "imageurl":"https://images10.gaadicdn.com/usedcar_image/320x240/usedcar_file_3__99391560848406_1560848437.jpg?tr=w-266" ,"Name":"pontiac catalina",
+       "Mileage":14,
+       "Cylinders":8,
+       "Displacement":455,
+       "Horsepower":225,
+       "drivenKm":4425,
+       "Acceleration":10,
+       "Year":"1970-01-01",
+       "Fuel":"Diesel","city":"Chennai","Price":450000
+    },
+    {
+       "imageurl":"https://images10.gaadicdn.com/usedcar_image/320x240/usedcar_file_3__99391560848406_1560848437.jpg?tr=w-266" ,"Name":"amc ambassador dpl",
+       "Mileage":15,
+       "Cylinders":8,
+       "Displacement":390,
+       "Horsepower":190,
+       "drivenKm":3850,
+       "Acceleration":8.5,
+       "Year":"1970-01-01",
+       "Fuel":"Diesel","city":"Chennai","Price":450000
+    },
+    {
+       "imageurl":"https://images10.gaadicdn.com/usedcar_image/320x240/usedcar_file_3__99391560848406_1560848437.jpg?tr=w-266" ,"Name":"citroen ds-21 pallas",
+       "Mileage":null,
+       "Cylinders":4,
+       "Displacement":133,
+       "Horsepower":115,
+       "drivenKm":3090,
+       "Acceleration":17.5,
+       "Year":"1970-01-01",
+       "Origin":"Europe"
+    },
+    {
+       "imageurl":"https://images10.gaadicdn.com/usedcar_image/320x240/usedcar_file_3__99391560848406_1560848437.jpg?tr=w-266" ,"Name":"chevrolet chevelle concours (sw)",
+       "Mileage":null,
+       "Cylinders":8,
+       "Displacement":350,
+       "Horsepower":165,
+       "drivenKm":4142,
+       "Acceleration":11.5,
+       "Year":"1970-01-01",
+       "Fuel":"Diesel","city":"Chennai","Price":450000
+    },
+    {
+       "imageurl":"https://images10.gaadicdn.com/usedcar_image/320x240/usedcar_file_3__99391560848406_1560848437.jpg?tr=w-266" ,"Name":"ford torino (sw)",
+       "Mileage":null,
+       "Cylinders":8,
+       "Displacement":351,
+       "Horsepower":153,
+       "drivenKm":4034,
+       "Acceleration":11,
+       "Year":"1970-01-01",
+       "Fuel":"Diesel","city":"Chennai","Price":450000
+    },
+    {
+       "imageurl":"https://images10.gaadicdn.com/usedcar_image/320x240/usedcar_file_3__99391560848406_1560848437.jpg?tr=w-266" ,"Name":"plymouth satellite (sw)",
+       "Mileage":null,
+       "Cylinders":8,
+       "Displacement":383,
+       "Horsepower":175,
+       "drivenKm":4166,
+       "Acceleration":10.5,
+       "Year":"1970-01-01",
+       "Fuel":"Diesel","city":"Chennai","Price":450000
+    },
+    {
+       "imageurl":"https://images10.gaadicdn.com/usedcar_image/320x240/usedcar_file_3__99391560848406_1560848437.jpg?tr=w-266" ,"Name":"amc rebel sst (sw)",
+       "Mileage":null,
+       "Cylinders":8,
+       "Displacement":360,
+       "Horsepower":175,
+       "drivenKm":3850,
+       "Acceleration":11,
+       "Year":"1970-01-01",
+       "Fuel":"Diesel","city":"Chennai","Price":450000
+    },
+    {
+       "imageurl":"https://images10.gaadicdn.com/usedcar_image/320x240/usedcar_file_3__99391560848406_1560848437.jpg?tr=w-266" ,"Name":"dodge challenger se",
+       "Mileage":15,
+       "Cylinders":8,
+       "Displacement":383,
+       "Horsepower":170,
+       "drivenKm":3563,
+       "Acceleration":10,
+       "Year":"1970-01-01",
+       "Fuel":"Diesel","city":"Chennai","Price":450000
+    },
+    {
+       "imageurl":"https://images10.gaadicdn.com/usedcar_image/320x240/usedcar_file_3__99391560848406_1560848437.jpg?tr=w-266" ,"Name":"plymouth 'cuda 340",
+       "Mileage":14,
+       "Cylinders":8,
+       "Displacement":340,
+       "Horsepower":160,
+       "drivenKm":3609,
+       "Acceleration":8,
+       "Year":"1970-01-01",
+       "Fuel":"Diesel","city":"Chennai","Price":450000
+    },
+    {
+       "imageurl":"https://images10.gaadicdn.com/usedcar_image/320x240/usedcar_file_3__99391560848406_1560848437.jpg?tr=w-266" ,"Name":"ford mustang boss 302",
+       "Mileage":null,
+       "Cylinders":8,
+       "Displacement":302,
+       "Horsepower":140,
+       "drivenKm":3353,
+       "Acceleration":8,
+       "Year":"1970-01-01",
+       "Fuel":"Diesel","city":"Chennai","Price":450000
+    }
+]
